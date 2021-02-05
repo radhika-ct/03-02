@@ -1,6 +1,3 @@
 radhika gali
-<<<<<<< HEAD
 radhika gali
-=======
 chandrika
->>>>>>> feature
